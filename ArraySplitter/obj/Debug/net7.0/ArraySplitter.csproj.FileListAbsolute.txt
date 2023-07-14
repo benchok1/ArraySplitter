@@ -1,0 +1,15 @@
+C:\Users\BenChok\ArraySplitter\ArraySplitter\bin\Debug\net7.0\ArraySplitter.exe
+C:\Users\BenChok\ArraySplitter\ArraySplitter\bin\Debug\net7.0\ArraySplitter.deps.json
+C:\Users\BenChok\ArraySplitter\ArraySplitter\bin\Debug\net7.0\ArraySplitter.runtimeconfig.json
+C:\Users\BenChok\ArraySplitter\ArraySplitter\bin\Debug\net7.0\ArraySplitter.dll
+C:\Users\BenChok\ArraySplitter\ArraySplitter\bin\Debug\net7.0\ArraySplitter.pdb
+C:\Users\BenChok\ArraySplitter\ArraySplitter\obj\Debug\net7.0\ArraySplitter.csproj.AssemblyReference.cache
+C:\Users\BenChok\ArraySplitter\ArraySplitter\obj\Debug\net7.0\ArraySplitter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BenChok\ArraySplitter\ArraySplitter\obj\Debug\net7.0\ArraySplitter.AssemblyInfoInputs.cache
+C:\Users\BenChok\ArraySplitter\ArraySplitter\obj\Debug\net7.0\ArraySplitter.AssemblyInfo.cs
+C:\Users\BenChok\ArraySplitter\ArraySplitter\obj\Debug\net7.0\ArraySplitter.csproj.CoreCompileInputs.cache
+C:\Users\BenChok\ArraySplitter\ArraySplitter\obj\Debug\net7.0\ArraySplitter.dll
+C:\Users\BenChok\ArraySplitter\ArraySplitter\obj\Debug\net7.0\refint\ArraySplitter.dll
+C:\Users\BenChok\ArraySplitter\ArraySplitter\obj\Debug\net7.0\ArraySplitter.pdb
+C:\Users\BenChok\ArraySplitter\ArraySplitter\obj\Debug\net7.0\ArraySplitter.genruntimeconfig.cache
+C:\Users\BenChok\ArraySplitter\ArraySplitter\obj\Debug\net7.0\ref\ArraySplitter.dll
